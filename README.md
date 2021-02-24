@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Shinetech](https://www.shinetechsoftware.com/)
-- 🌱 I’m good at React, Express.
+- 🌱 I’m good at JavaScript and Go languages.
 - 💻 I have rich experience on Data Visualization.
 - 📫 How to reach me: [wzdsrhm1994@gmail.com](wzdsrhm1994@gmail.com), [mango941109@163.com](mango941109@163.com)
 
