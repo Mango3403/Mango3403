@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Haoming Ren(It's 任浩铭 in Chinese) 👋
 
 - 🔭 I’m currently working on [Shinetech](https://www.shinetechsoftware.com/) as a full stack developer.
 - 🌱 I’m using React and Vue in frontend. In backend I'm using Node.js and Golang.
