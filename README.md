@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Shinetech](https://www.shinetechsoftware.com/)
-- 🌱 I’m good at JavaScript and Go languages.
-- 💻 I have rich experience on Data Visualization.
+- 🔭 I’m currently working on [Shinetech](https://www.shinetechsoftware.com/) as a full stack developer.
+- 🌱 I’m using React and Vue in frontend. In backend I'm using Node.js and Golang.
 - 📫 How to reach me: [wzdsrhm1994@gmail.com](wzdsrhm1994@gmail.com), [mango941109@163.com](mango941109@163.com)
 
 <!--
