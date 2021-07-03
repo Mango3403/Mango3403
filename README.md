@@ -1,8 +1,5 @@
 ### Hi there, I'm Haoming Ren👋
 
-- 🔭 I’m currently working on [Shinetech](https://www.shinetechsoftware.com/) as a full stack developer.
-- 🌱 I’m using React and Vue in frontend. In backend I'm using Node.js and Golang.
-
 <!--
 **Mango3403/Mango3403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
